@@ -5,6 +5,7 @@ A UVU Data Science Demo showcasing the basics of sentiment analysis and data exp
 
 `streamlit run visualize.py`
 
+Navigate to your locahost on port 8501 to view.
 Project Organization
 ------------
 
