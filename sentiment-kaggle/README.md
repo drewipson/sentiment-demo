@@ -1,7 +1,9 @@
 sentiment-demo
 ==============================
 
-A UVU Data Science Demo showcasing the basics of sentiment analysis and data exploration. This project also covers a brief demo of streamlit to make models available for production use.
+A UVU Data Science Demo showcasing the basics of sentiment analysis and data exploration. This project also covers a brief demo of streamlit to make models available with a front end use. You can run the streamlit application by navigating to the `/src` directory and run the following command:
+
+`streamlit run visualize.py`
 
 Project Organization
 ------------
